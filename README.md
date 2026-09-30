@@ -18,6 +18,12 @@ npm run preview
 
 Deploy the generated `dist` directory to any static host.
 
+## Live website
+
+https://ParaWickramarathne.github.io/PixelMuse/
+
+GitHub Pages deploys automatically when changes are pushed to `main`, using `.github/workflows/deploy-pages.yml`. Relative asset paths support the repository subdirectory and local previews.
+
 ## Features
 
 - Multi-image upload and drag-and-drop, with file validation (20 MB per image).
